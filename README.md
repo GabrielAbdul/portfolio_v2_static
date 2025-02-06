@@ -1,3 +1,5 @@
 # gabdulraheem.com v2
 
-static export of next.js project
+Static export of next.js portfolio project.
+
+[Portfolio](https://gabdulraheem.com/)
